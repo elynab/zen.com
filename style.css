@@ -1,0 +1,27 @@
+h1 {
+    color:darkslategray;
+    font-style: normal;
+    font-size: 1.5cm;
+}
+h2 {
+    color: darkslategray;
+    font-size: large
+}
+p {
+    color: black;
+    font-size: large;
+}
+
+p1 {
+    color: darkslategray;
+    font-weight: bold;
+    font-size: larger;
+}
+
+ol {
+    font-size: large;
+}
+
+p2 {
+    font-style: italic;
+}
