@@ -1,53 +1,79 @@
 body {
-    background-color: white;
+    font-size: medium;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-header {
-    height: 300px;
-    width: 100%;
+header {    
+    
+    text-align: center;
     
 }
-
-main {
-    background-color: white;
-}
-
+   
 h1 {
     color:darkslategray;
     font-style: normal;
     font-size: 1.5cm;
-}
-
-h2 {
-    color: darkslategray;
-    font-size: large
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 0px;
 }
 
 p {
     color: black;
     font-size: large;
+    padding-top: 20px;
+    font-size: medium;
+    padding-left: 240px;
+    padding-right: 240px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
 }
 
 p1 {
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+}
+
+h3 {
+    color: rgb(37, 113, 148);
+    font-weight: bold;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+}
+
+h4 {
     color: rgb(37, 113, 148);
     font-weight: bold;
     font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
 }
 
 ol {
-    font-size: large;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    list-style-position: inside;    
 }
 
-p2 {
-    font-style: italic;
+h2 {
+    color: darkslategray;
+    font-size: large;
+    padding-top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 nav {
     background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 footer {
-    background-color: aqua;
     height: 300px;
     width: 100%;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+ul {
+    list-style-position: inside;
+}
+
