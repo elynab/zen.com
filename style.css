@@ -5,10 +5,8 @@ body {
 }
 
 header {    
-    
     text-align: center;
-    
-}
+    }
    
 h1 {
     color:darkslategray;
@@ -28,10 +26,6 @@ p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
 }
 
-p1 {
-    font-style: italic;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
-}
 
 h3 {
     color: rgb(37, 113, 148);
